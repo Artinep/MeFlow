@@ -26,6 +26,10 @@ Download, install, Run... That's it!
 
 # FAQ
 
+- I didn't quite understand how money flows and the fees work on this app? 
+    *Sender : start money streaming, he/she writes on the blockchain smart contract that a gas fee applies once. The counter keeps running in the background (No fee applies). A pause / stop of a stream triggers an action on the smart contract, which incurs a gas fee (once).
+    *Receiver : A withdrawal requires writing to the smart contract, which incurs a gas fee (once).
+
 - Is it easy to use? YES, it's designed to be as simple as possible. Don't worry! it's very, very basic. Jesus is with you every step of the way.
 
 - Is the app compliant with regulations? YES, it complies with KYC regulations and human rights : Everything you do with Ethereum is publicly recorded on the blockchain.
