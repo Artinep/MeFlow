@@ -15,6 +15,18 @@ This app allows you to real-time per-second money streaming using cryptocurrency
 - An Ethereum wallet where you are free to withdraw or spend your money whenever and wherever you want (It's important to leave a small amount of ETH in your account because transaction on the Ethereum network require ETH as a gas fees),
 - Available on most mainnet blockchain network (Can stream most known ERC-20 tokens).
 
+# Pricing
+
+It's free, but starting a token stream and withdrawing token cost small ETH as a gas fee running smart contract. The app is yours and involves no third parties.
+
+# How to... ?
+
+Download, install, Run... That's it!
+
+# FAQ
+
+- TO DO
+
 # License
 
 Boost Software License - Version 1.0 - August 17th, 2003
