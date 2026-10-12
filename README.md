@@ -8,8 +8,9 @@ This app allows you to real-time per-second money streaming using cryptocurrency
 
 # Feature
 
-- MeFlow-setup.exe｜Secure standalone installable Windows 10+ 64bit application,
-- Side to side dashboard : Money streaming flows + Web interface,
+- MeFlow-Setup.exe : Secure standalone installable Windows 10+ 64bit application,
+- The Application is Password protected. Set a password at startup, then you're free to do whatever you please with the app without any further restrictions, 
+- Side to side dashboard : Money streaming flows + Web interface :
     - User-friendly action buttons for money flows, money status, ...,
     - A web interface to browse your favorite sites : zoom, whatsapp, facebook, skype, ...,
 - An Ethereum wallet where you are free to withdraw or spend your money whenever and wherever you want (It's important to leave a small amount of ETH in your account because transaction on the Ethereum network require ETH as a gas fees),
@@ -25,7 +26,13 @@ Download, install, Run... That's it!
 
 # FAQ
 
-- TO DO
+- Is it easy to use? YES, it's designed to be as simple as possible. Don't worry! it's very, very basic. Jesus is with you every step of the way.
+
+- Is the app compliant with regulations? YES, it complies with KYC regulations and human rights : Everything you do with Ethereum is publicly recorded on the blockchain.
+
+- Is my privacy secure with this app? YES, The app does not collect any of your personal details : no registration, no facial recognition, no marriage certificate, no gun permit, no binary / non-binary / lgbtqrstuvwxyz / machine / human / alien issues verification, the developer doesn't give a sh*t whether you've plugged your holes or cut your own belly buttons.
+
+- Do i think? YES, therefore you are.
 
 # License
 
