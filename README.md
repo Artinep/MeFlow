@@ -1,8 +1,6 @@
 # MeFlow
 
-[logo.png](https://artinep.github.io/MeFlow/logo.png)
-
-[meflow.mp4](https://artinep.github.io/MeFlow/meflow.mp4)
+[![meflow.mp4](https://artinep.github.io/MeFlow/logo.png)](https://artinep.github.io/MeFlow/meflow.mp4)
 
 # Description
 
