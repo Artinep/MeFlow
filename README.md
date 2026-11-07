@@ -5,20 +5,22 @@
 # Description
 
 This app allows you to real-time per-second money streaming using cryptocurrency : whether you're a teacher, a tech support, tiktoker, zoom user, facebook user, youtuber, art performer, someone who wants to monetize their creative content or someone who wants to only stream money.
+The application was created as hands-on experience with C++, web3, Ethereum network and smart contracts. It is secure and stable, similar to any other paid or premium app.
 
 # Feature
 
 - MeFlow-Setup.exe : Secure standalone installable Windows 10+ 64bit application,
 - The Application is Password protected. Set a password at startup, then you're free to do whatever you please with the app without any further restrictions, 
 - Side to side dashboard : Money streaming flows + Web interface :
-    - User-friendly action buttons for money flows, money status, ...,
+    - User-friendly action buttons for money flows, money status for incoming and outgoing streams, ...,
     - A web interface to browse your favorite sites : zoom, whatsapp, facebook, skype, ...,
-- An Ethereum wallet where you are free to withdraw or spend your money whenever and wherever you want (It's important to leave a small amount of ETH in your account because transaction on the Ethereum network require ETH as a gas fees),
-- Available on most mainnet blockchain network (Can stream most known ERC-20 tokens).
+- An Ethereum wallet where you are free to withdraw or spend your money whenever and wherever you want (It's important to leave a small amount of native token in your account because transaction on the Ethereum network require native token as a gas fees),
+- A history page displays all of the application's internal activities,
+- Available on most mainnet blockchain network : Ethereum, Optimism, BSC (BNB Smart Chain), Gnosis (XDAI), Polygon, Arbitrum, Base, Avalanche... You can test MeFlow on Fuji.
 
 # Pricing
 
-It's free, but starting a token stream and withdrawing token cost small ETH as a gas fee running smart contract. The app is yours and involves no third parties.
+It's free, but starting a token stream and withdrawing token cost small gas fee running smart contract. The app is yours and involves no third parties.
 
 # How to... ?
 
@@ -27,16 +29,24 @@ Download, install, Run... That's it!
 # FAQ
 
 - I didn't quite understand how money flows and the fees work on this app? 
-    *Sender : start money streaming, he/she writes on the blockchain smart contract that a gas fee applies once. The counter keeps running in the background (No fee applies). A pause / stop of a stream triggers an action on the smart contract, which incurs a gas fee (once).
-    *Receiver : A withdrawal requires writing to the smart contract, which incurs a gas fee (once).
+    *Sender : start money streaming (a gas fee applies once). The counter keeps running in the background (No fee applies). A stop of a stream triggers an action on the smart contract, which incurs a gas fee (once).
+    *Receiver : Do A withdrawal (a gas fee applies once).
 
-- Is it easy to use? YES, it's designed to be as simple as possible. Don't worry! it's very, very basic. Jesus is with you every step of the way.
+- Is it easy to use? YES, it's designed to be as simple as possible. Don't worry! it's very, very basic.
 
-- Is the app compliant with regulations? YES, it complies with KYC regulations and human rights : Everything you do with Ethereum is publicly recorded on the blockchain.
+- Is my money safe with MeFlow? YES, it is. MeFlow is based on smart contracts : it is immutable and there is no admin who can change the rules or freeze funds.
 
-- Is my privacy secure with this app? YES, The app does not collect any of your personal details : no registration, no facial recognition, no marriage certificate, no gun permit, no binary / non-binary / lgbtqrstuvwxyz / machine / human / alien issues verification, the developer doesn't give a sh*t whether you've plugged your holes or cut your own belly buttons.
+- Is my privacy secure with this app? YES, The app does not collect any of your personal details : no email, no registration, no facial recognition, no marriage certificate, no binary / non-binary / lgbtqrstuvwxyz / machine / human / alien issues verification. Your personal data stays on your computer, you’re relying on your own computer security.
+
+- How about Regulation? Find out about the regulation in your country whether it is illegal to use internet or to have your own source of income or if it is illegal to share money freely... And give to Caesar what belongs to Caesar.
+
+- Is the app compliant with regulations? YES, it complies with KYC regulations and human rights : Everything you do with Ethereum is publicly recorded on the blockchain. An app is only pictures and text displayed on your screen... just f*cking use it!
 
 - Do i think? YES, therefore you are.
+
+# Download
+
+Under construction.
 
 # License
 
