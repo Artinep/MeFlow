@@ -40,7 +40,7 @@ Download, install, Run... That's it!
 
 - How about Regulation? Find out about the regulation in your country whether it is illegal to use internet or to have your own source of income or if it is illegal to share money freely... And give to Caesar what belongs to Caesar.
 
-- Is the app compliant with regulations? YES, it complies with KYC regulations and human rights : Everything you do with Ethereum is publicly recorded on the blockchain. An app is only pictures and text displayed on your screen... just f*cking use it!
+- Is the app compliant with regulations? YES, it complies with KYC regulations and human rights : Everything you do with Ethereum is publicly recorded on the blockchain. An app is only pictures and text displayed on your screen... just use it!
 
 - Do i think? YES, therefore you are.
 
